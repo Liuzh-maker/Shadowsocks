@@ -20,7 +20,7 @@
 
 3、苹果 iPhone、iPad
 
-【 [Shadowrocket小火箭在线安装]( https://shadowsocks-help.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowsocks-help.github.io/Potatso-Lite/) 】
+【 [Shadowrocket小火箭在线安装]( https://shadowso.github.io/ios/) 】| 【 [Potatso Lite代理工具 在线安装]( https://shadowso.github.io/Potatso-Lite/) 】
 
 4、苹果 Mac
 
@@ -30,4 +30,4 @@
 
 【[Shadowsocks-Qt5-3.0.1-x86_64.AppImage](https://raw.githubusercontent.com/Shadowsocks-Help/Shadowsocks/master/Download/Shadowsocks-Qt5-3.0.1-x86_64.AppImage)】|
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://shadowso.github.io/Shadowsocks/)
