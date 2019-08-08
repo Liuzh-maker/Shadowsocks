@@ -169,7 +169,7 @@ shadowrocket在服务器的编辑页面中即可设置混淆
 
 ![sr](image/sr.png)
 
-- [Shadowrocket小火箭 在线安装](https://shadowsocks-help.github.io/ios/)
+- [Shadowrocket小火箭 在线安装](https://shadowso.github.io/ios/)
 
 ### Android
 
