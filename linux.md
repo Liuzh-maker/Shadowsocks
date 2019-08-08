@@ -148,4 +148,4 @@ kill 相应的 pid 即可
 
 <hr>
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://shadowso.github.io/Shadowsocks/)
