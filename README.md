@@ -6,7 +6,7 @@
 
 [2] A secure socks5 proxy,designed to protect your Internet traffic. 
 
-[3] [SS/ShadowsocksR免费穩定节点！](https://dbgjd.com/sszhfx.html)
+[3] [【推荐】SS/ShadowsocksR免费穩定节点！](https://dbgjd.com/sszhfx.html)
 
 ## 2 Shadowsocks 如何使用？
 
