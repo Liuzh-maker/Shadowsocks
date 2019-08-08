@@ -199,7 +199,7 @@ Surge 固然好，但是其开发者 Yachen Liu 却着实是一个富有争议�
 
 #### Shadowrocket --- 穿云箭
 
-Surge 下架上架来回折腾的时候，不少开发者也看到了机遇，[Shadowrocket小火箭](https://shadowsocks-help.github.io/ios/) 便是当时的 Surge 追随者，最初上架性能虽然不佳，但是6元的售价并且兼容Surge规则还是吸引了不少人下载，一时间风头无两，被称为小火箭。
+Surge 下架上架来回折腾的时候，不少开发者也看到了机遇，[Shadowrocket小火箭](https://shadowso.github.io/ios/) 便是当时的 Surge 追随者，最初上架性能虽然不佳，但是6元的售价并且兼容Surge规则还是吸引了不少人下载，一时间风头无两，被称为小火箭。
 
 小火箭的作者 Guangming Li 似乎是个奶爸，最初小火箭比较简陋，随着快速的迭代更新，小火箭功能逐渐完善起来，稳定性也提高了不少，在摆脱 Surge 的同时，小火箭也开发出了不少让人眼前一亮的新功能。
 
@@ -213,7 +213,7 @@ Surge 下架上架来回折腾的时候，不少开发者也看到了机遇，[S
 
 iOS上还有A.BIG.T，Potatso等VPN软件，16年，17年与小火箭战的难舍难分，无奈后劲不足，现在大概是明日黄花了。
 
-[Potatso Lite](https://shadowsocks-help.github.io/Potatso-Lite/) 是一款免费的IOS 网络代理工具，你只需要一个美区账号即可下载，功能较少，但使用简单方便，也完全可以满足科学上网的需求。
+[Potatso Lite](https://shadowso.github.io/Potatso-Lite/) 是一款免费的IOS 网络代理工具，你只需要一个美区账号即可下载，功能较少，但使用简单方便，也完全可以满足科学上网的需求。
 
 ![Potatso Lite](image/Potatso.png)
 
@@ -269,5 +269,5 @@ Postern是在 Android 上最接近于 Surge 模式的软件，其可以兼容 Su
 
 <hr>
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://shadowso.github.io/Shadowsocks/)
 
