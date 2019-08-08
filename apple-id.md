@@ -66,4 +66,4 @@
 
 <hr>
 
-### [<< 返回首页](https://shadowsocks-help.github.io/Shadowsocks/)
+### [<< 返回首页](https://shadowso.github.io/Shadowsocks/)
