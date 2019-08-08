@@ -1,7 +1,7 @@
 # Shadowsocks 节点服务器个人搭建指南
 
 
-> [SS/ShadowsocksR免费穩定节点！](https://dbgjd.com/sszhfx.html)
+> [【推荐】SS/ShadowsocksR免费穩定节点！](https://dbgjd.com/sszhfx.html)
 
 - [个人搭建指南](#------)
   * [服务器选择](#-----)
